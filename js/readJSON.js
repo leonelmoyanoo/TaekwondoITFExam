@@ -1,4 +1,4 @@
-const CINTURONES = './json/cinturones.json';
+const CINTURONES = 'https://leonelmoyanoo.github.io/TaekwondoExam/json/cinturones.json';
 console.log(CINTURONES);
 
 async function printJSON() {
