@@ -1,3 +1,18 @@
 {
-    "Hola": "Chau"
+    "Tul": [{
+        "CHON JI": [{
+            "Cantidad de movimientos": 19
+        }]
+    }],
+    "Evaluación": [
+        "Técnicas fundamentales",
+        "Formas",
+        "Sambo matsogi en pareja",
+        "Combinaciones de técnicas de pie y mano ejecutadas en 2 pasos",
+        {
+            "Teoría": [{
+                "U": "4"
+            }]
+        }
+    ]
 }

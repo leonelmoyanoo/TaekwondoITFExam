@@ -1,3 +1,31 @@
 {
-    "Hola": "Chau"
+    "Tul": [{
+        "SAJU JIRUGI": [{
+            "Cantidad de movimientos": 7
+        }],
+        "SAJU MAKGI": [{
+            "Cantidad de movimientos": 8
+        }]
+    }],
+    "Evaluación": [
+        "Técnicas fundamentales",
+        "Formas",
+        "Sambo matsogi individual",
+        "Combinaciones de técnicas de pie y mano ejecutadas en un paso",
+        {
+            "Teoría": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                {
+                    "G": "1"
+                }, {
+                    "U": "1"
+                }
+            ]
+        }
+    ]
 }
