@@ -1,3 +1,21 @@
 {
-    "Hola": "Chau"
+    "Tul": [{
+        "DAN-GUN": [{
+            "Cantidad de movimientos": 21
+        }]
+    }],
+    "Evaluación": [
+        "Técnicas fundamentales",
+        "Formas",
+        "Ilbo matsogi",
+        "Lucha libre",
+        "Combinaciones de técnicas de pie y mano ejecutadas en 2 pasos",
+        {
+            "Teoría": [{
+                "G": "2"
+            }, {
+                "U": "2"
+            }]
+        }
+    ]
 }
