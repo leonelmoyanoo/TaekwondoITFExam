@@ -1,7 +1,9 @@
 {
     "Tul": [{
         "DAN-GUN": [{
-            "Cantidad de movimientos": 21
+            "Cantidad": 21,
+            "Descripcion": "Es el nombre del Santo DAN'GUN. El legendario fundador de Corea. Fundada en el año 2333 Antes de Cristo.",
+            "Salida": "NARANI JUMNI SOGI"
         }]
     }],
     "Evaluacion": [

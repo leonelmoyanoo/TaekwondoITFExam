@@ -1,7 +1,9 @@
 {
     "Tul": [{
-        "DAN-GUN": [{
-            "Cantidad de movimientos": 21
+        "DO - SAN": [{
+            "Cantidad": 24,
+            "Descripcion": "Es el seudónimo del patriota AHN CHANG HO (1876 - 1938).\nLos 24 movimientos respresentan su vida entera, la cual la dedicó a la educación superior de Corea y al movimiento de la independencia.",
+            "Salida": "NARANI JUMBI SOGI"
         }]
     }],
     "Evaluacion": [

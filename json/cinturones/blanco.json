@@ -1,10 +1,14 @@
 {
     "Tul": [{
         "SAJU JIRUGI": [{
-            "Cantidad de movimientos": 7
+            "Cantidad": 7,
+            "Descripcion": "Cruz de ataque.",
+            "Salida": ""
         }],
         "SAJU MAKGI": [{
-            "Cantidad de movimientos": 8
+            "Cantidad": 8,
+            "Descripcion": "Cruz de defensa.",
+            "Salida": ""
         }]
     }],
     "Evaluacion": [
