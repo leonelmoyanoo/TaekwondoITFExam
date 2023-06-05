@@ -1,23 +1,45 @@
 {
-    "Tul": [{
-        "YUL GOK": [{
-            "Cantidad": 38,
-            "Descripcion": "Es el seudónimo de un gran filósofo y erudito (1536 1584), apodado el 'CONFUCIO DE COREA'.\n Los 38 movimientos de esta forma se refieren al lugar de su nacimineto sobre los 38 grados de latitud, y el diagrama representa al ESTUDIANTE.",
-            "Salida": "NARANI JUMBI SOGI"
-        }]
-    }],
+    "Tul": [
+        {
+            "YUL GOK": [
+                {
+                    "Cantidad": 38,
+                    "Descripcion": "Es el seudónimo de un gran filósofo y erudito (1536 1584), apodado el 'CONFUCIO DE COREA'.\n Los 38 movimientos de esta forma se refieren al lugar de su nacimineto sobre los 38 grados de latitud, y el diagrama representa al ESTUDIANTE.",
+                    "Salida": "NARANI JUMBI SOGI"
+                }
+            ]
+        }
+    ],
     "Evaluacion": [
         "Técnicas fundamentales",
         "Formas",
         "Ilbo matsogi",
         "Lucha libre",
-        "Combinaciones de técnicas de pie y mano ejecutadas en 2 pasos",
+        "Combinaciones de técnicas de pie y mano ejecutadas en 1 y 2 pasos",
+        "Rotura: BANDAE YOP CHAGI O SONKAL TAERIGI",
         {
-            "Teoría": [{
-                "G": "2"
-            }, {
-                "U": "2"
-            }]
+            "Teoría": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "H",
+                "I",
+                {
+                    "G": [
+                        "3"
+                    ]
+                },
+                {
+                    "U": [
+                        "1",
+                        "2",
+                        "4"
+                    ]
+                }
+            ]
         }
     ]
 }

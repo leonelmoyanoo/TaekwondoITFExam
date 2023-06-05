@@ -1,23 +1,45 @@
 {
-    "Tul": [{
-        "WON HYO": [{
-            "Cantidad": 28,
-            "Descripcion": "Fue el célebre monje que introdujo el budismo a la dinastía SILLA en el año 686 Antes de Cristo.",
-            "Salida": "MOA JUMBI SOGI tipo A.\n Puño a la altura de la nariz a 30 cm."
-        }]
-    }],
+    "Tul": [
+        {
+            "WON HYO": [
+                {
+                    "Cantidad": 28,
+                    "Descripcion": "Fue el célebre monje que introdujo el budismo a la dinastía SILLA en el año 686 Antes de Cristo.",
+                    "Salida": "MOA JUMBI SOGI tipo A.\n Puño a la altura de la nariz a 30 cm."
+                }
+            ]
+        }
+    ],
     "Evaluacion": [
         "Técnicas fundamentales",
         "Formas",
         "Ilbo matsogi",
         "Lucha libre",
-        "Combinaciones de técnicas de pie y mano ejecutadas en 2 pasos",
+        "Combinaciones de técnicas de pie y mano ejecutadas en 2 Y 3 pasos",
+        "Rotura: DOLLYO O AP CHAGI",
         {
-            "Teoría": [{
-                "G": "2"
-            }, {
-                "U": "2"
-            }]
+            "Teoría": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "H",
+                "I",
+                {
+                    "G": [
+                        "3"
+                    ]
+                },
+                {
+                    "U": [
+                        "1",
+                        "2",
+                        "4"
+                    ]
+                }
+            ]
         }
     ]
 }

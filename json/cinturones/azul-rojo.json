@@ -1,23 +1,55 @@
 {
-    "Tul": [{
-        "TOI GYE": [{
-            "Cantidad": 37,
-            "Descripcion": "Es el seudónimo del célebre erudito I HWANG (siglo 16) una autoridad sobre el neo'confuncionismo. Los 37 movimientos se refieren al lugar donde se desempeñaba; sobre los 37° de latitud. El diagrama representa al ESTUDIANTE.",
-            "Salida": "MOA JUMBI SOGI tipo B."
-        }]
-    }],
+    "Tul": [
+        {
+            "TOI GYE": [
+                {
+                    "Cantidad": 37,
+                    "Descripcion": "Es el seudónimo del célebre erudito I HWANG (siglo 16) una autoridad sobre el neo'confuncionismo. Los 37 movimientos se refieren al lugar donde se desempeñaba; sobre los 37° de latitud. El diagrama representa al ESTUDIANTE.",
+                    "Salida": "MOA JUMBI SOGI tipo B."
+                }
+            ]
+        }
+    ],
     "Evaluacion": [
         "Técnicas fundamentales",
         "Formas",
         "Ilbo matsogi",
+        "Ibo matsogi",
         "Lucha libre",
-        "Combinaciones de técnicas de pie y mano ejecutadas en 2 pasos",
+        "Combinaciones Técnicas de pie y mano con desplazamientos",
+        "Defensa personal",
+        "Rotura: NOMO CHAGI",
         {
-            "Teoría": [{
-                "G": "2"
-            }, {
-                "U": "2"
-            }]
+            "Teoría": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "H",
+                "I",
+                "J",
+                "K",
+                "L",
+                "M",
+                "N",
+                "Ñ",
+                "O",
+                {
+                    "G": [
+                        "4"
+                    ]
+                },
+                {
+                    "U": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ]
+                }
+            ]
         }
     ]
 }

@@ -1,23 +1,65 @@
 {
-    "Tul": [{
-        "CHOONG MOO": [{
-            "Cantidad": 30,
-            "Descripcion": "Fue el nombre dado al gran almirante YI SOO SIN de la dinastía YI. Fue el supuesto inventor del 1er Barco de guerra blindado (KOBUKSON) en 1592. El cual fuel el precursos del submarion de hoy día.\nLar razón por la cual esta forma termina con la mano izquierda en ataque es para simbolizar su lamentable muerte.",
-            "Salida": ""
-        }]
-    }],
+    "Tul": [
+        {
+            "CHOONG MOO": [
+                {
+                    "Cantidad": 30,
+                    "Descripcion": "Fue el nombre dado al gran almirante YI SOO SIN de la dinastía YI. Fue el supuesto inventor del 1er Barco de guerra blindado (KOBUKSON) en 1592. El cual fuel el precursos del submarion de hoy día.\nLar razón por la cual esta forma termina con la mano izquierda en ataque es para simbolizar su lamentable muerte.",
+                    "Salida": ""
+                }
+            ]
+        }
+    ],
     "Evaluacion": [
         "Técnicas fundamentales",
         "Formas",
         "Ilbo matsogi",
+        "Ibo matsogi",
+        "Sambo matsogi",
         "Lucha libre",
-        "Combinaciones de técnicas de pie y mano ejecutadas en 2 pasos",
+        "Hosin sul (defensa personal)",
+        "Combinaciones 360° con patada de Costado, talón, descendente y circular",
+        "Rotura: Poder SONKAL TAERIGI, Habilidad NOMO CHAGI",
         {
-            "Teoría": [{
-                "G": "2"
-            }, {
-                "U": "2"
-            }]
+            "Teoría": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "H",
+                "I",
+                "J",
+                "K",
+                "L",
+                "M",
+                "N",
+                "Ñ",
+                "O",
+                "P",
+                "Q",
+                "R",
+                "S",
+                "T",
+                "V",
+                "X",
+                "Y",
+                "W",
+                {
+                    "G": [
+                        "6"
+                    ]
+                },
+                {
+                    "U": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ]
+                }
+            ]
         }
     ]
 }

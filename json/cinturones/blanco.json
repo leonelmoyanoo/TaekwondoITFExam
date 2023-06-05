@@ -1,16 +1,22 @@
 {
-    "Tul": [{
-        "SAJU JIRUGI": [{
-            "Cantidad": 7,
-            "Descripcion": "Cruz de ataque.",
-            "Salida": ""
-        }],
-        "SAJU MAKGI": [{
-            "Cantidad": 8,
-            "Descripcion": "Cruz de defensa.",
-            "Salida": ""
-        }]
-    }],
+    "Tul": [
+        {
+            "SAJU JIRUGI": [
+                {
+                    "Cantidad": 7,
+                    "Descripcion": "Cruz de ataque.",
+                    "Salida": ""
+                }
+            ],
+            "SAJU MAKGI": [
+                {
+                    "Cantidad": 8,
+                    "Descripcion": "Cruz de defensa.",
+                    "Salida": ""
+                }
+            ]
+        }
+    ],
     "Evaluacion": [
         "Técnicas fundamentales",
         "Formas",
@@ -25,9 +31,14 @@
                 "E",
                 "F",
                 {
-                    "G": "1"
-                }, {
-                    "U": "1"
+                    "G": [
+                        "1"
+                    ]
+                },
+                {
+                    "U": [
+                        "1"
+                    ]
                 }
             ]
         }

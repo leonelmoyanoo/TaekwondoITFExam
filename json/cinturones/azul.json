@@ -1,23 +1,49 @@
 {
-    "Tul": [{
-        "JOON GUN": [{
-            "Cantidad": 32,
-            "Descripcion": "Se recuerda al patriota AHN JOON GUN, que asesinó a HIRO-BUMI LTO, el 1er gobernador general Japonés de COrea. Los 32 movimientos representan la edad del Sr. AHN cuando fue ejecutado en la prisión de LUI SHUNG (1910)",
-            "Salida": "MOA JUMBI SOGI tipo B.\n Puño en la línea del ombligo a 15 cm."
-        }]
-    }],
+    "Tul": [
+        {
+            "JOON GUN": [
+                {
+                    "Cantidad": 32,
+                    "Descripcion": "Se recuerda al patriota AHN JOON GUN, que asesinó a HIRO-BUMI LTO, el 1er gobernador general Japonés de COrea. Los 32 movimientos representan la edad del Sr. AHN cuando fue ejecutado en la prisión de LUI SHUNG (1910)",
+                    "Salida": "MOA JUMBI SOGI tipo B.\n Puño en la línea del ombligo a 15 cm."
+                }
+            ]
+        }
+    ],
     "Evaluacion": [
         "Técnicas fundamentales",
         "Formas",
         "Ilbo matsogi",
+        "Ibo matsogi",
         "Lucha libre",
-        "Combinaciones de técnicas de pie y mano ejecutadas en 2 pasos",
+        "Combinaciones de técnicas de pie y mano con anticipos en 2 y 3 pasos",
+        "Rotura:CON SALTO Nopi Chagi O AP JOOMUK (Puño)",
         {
-            "Teoría": [{
-                "G": "2"
-            }, {
-                "U": "2"
-            }]
+            "Teoría": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "H",
+                "I",
+                "J",
+                "K",
+                {
+                    "G": [
+                        "4"
+                    ]
+                },
+                {
+                    "U": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ]
+                }
+            ]
         }
     ]
 }

@@ -1,11 +1,15 @@
 {
-    "Tul": [{
-        "DAN-GUN": [{
-            "Cantidad": 21,
-            "Descripcion": "Es el nombre del Santo DAN'GUN. El legendario fundador de Corea. Fundada en el año 2333 Antes de Cristo.",
-            "Salida": "NARANI JUMNI SOGI"
-        }]
-    }],
+    "Tul": [
+        {
+            "DAN-GUN": [
+                {
+                    "Cantidad": 21,
+                    "Descripcion": "Es el nombre del Santo DAN'GUN. El legendario fundador de Corea. Fundada en el año 2333 Antes de Cristo.",
+                    "Salida": "NARANI JUMNI SOGI"
+                }
+            ]
+        }
+    ],
     "Evaluacion": [
         "Técnicas fundamentales",
         "Formas",
@@ -13,11 +17,26 @@
         "Lucha libre",
         "Combinaciones de técnicas de pie y mano ejecutadas en 2 pasos",
         {
-            "Teoría": [{
-                "G": "2"
-            }, {
-                "U": "2"
-            }]
+            "Teoría": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                {
+                    "G": [
+                        "2"
+                    ]
+                },
+                {
+                    "U": [
+                        "1",
+                        "2",
+                        "4"
+                    ]
+                }
+            ]
         }
     ]
 }

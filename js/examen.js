@@ -29,7 +29,7 @@ function obtenerClaves(objeto) {
         }
     }
 
-    return claves;
+    return [...new Set(claves)];
 }
 
 async function printCinturon() {
@@ -67,13 +67,10 @@ async function printCinturon() {
                     p = '';
                     for (const key2 in text) {
                         text[key2].forEach(item => {
-                            console.log(item);
+                            p += '<p class="card-text teoria">' + first_key + item + ' - ' + contenido[first_key][1][0][item] + '</p>';
                         });
-                        console.log(contenido[first_key][1][0][text[key2]]);
-                        p += '<p class="card-text teoria">' + first_key + text[key2] + ' - ' + contenido[first_key][1][0][text[key2]] + '</p>';
                     }
                     teoria_div.innerHTML += title + p ;
-
                 }else if (typeof text === "string") {
                     teoria_div.innerHTML += '<p class="card-text teoria">' + text + ' - ' + contenido[text] + '</p>';
                 }

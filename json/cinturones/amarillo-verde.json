@@ -1,23 +1,44 @@
 {
-    "Tul": [{
-        "DO - SAN": [{
-            "Cantidad": 24,
-            "Descripcion": "Es el seudónimo del patriota AHN CHANG HO (1876 - 1938).\nLos 24 movimientos respresentan su vida entera, la cual la dedicó a la educación superior de Corea y al movimiento de la independencia.",
-            "Salida": "NARANI JUMBI SOGI"
-        }]
-    }],
+    "Tul": [
+        {
+            "DO - SAN": [
+                {
+                    "Cantidad": 24,
+                    "Descripcion": "Es el seudónimo del patriota AHN CHANG HO (1876 - 1938).\nLos 24 movimientos respresentan su vida entera, la cual la dedicó a la educación superior de Corea y al movimiento de la independencia.",
+                    "Salida": "NARANI JUMBI SOGI"
+                }
+            ]
+        }
+    ],
     "Evaluacion": [
         "Técnicas fundamentales",
         "Formas",
         "Ilbo matsogi",
         "Lucha libre",
-        "Combinaciones de técnicas de pie y mano ejecutadas en 2 pasos",
+        "Combinaciones de técnicas de pie y mano ejecutadas en 2 y 3 pasos",
+        "Rotura: SONKAL TAERIGI O YOPCHA MILGI",
         {
-            "Teoría": [{
-                "G": "2"
-            }, {
-                "U": "2"
-            }]
+            "Teoría": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "I",
+                {
+                    "G": [
+                        "2"
+                    ]
+                },
+                {
+                    "U": [
+                        "1",
+                        "2",
+                        "4"
+                    ]
+                }
+            ]
         }
     ]
 }

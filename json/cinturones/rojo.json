@@ -1,23 +1,62 @@
 {
-    "Tul": [{
-        "HWA RANG": [{
-            "Cantidad": 29,
-            "Descripcion": "Se llamaba HWA RANG a un grupo de guerreros originados en la dinatía SILLA, en el temprano siglo VII.\nLos 29 movimientos se refieren a la 29 división de infantería donde el Taekwon'do desarrolló su madurez.",
-            "Salida": ""
-        }]
-    }],
+    "Tul": [
+        {
+            "HWA RANG": [
+                {
+                    "Cantidad": 29,
+                    "Descripcion": "Se llamaba HWA RANG a un grupo de guerreros originados en la dinatía SILLA, en el temprano siglo VII.\nLos 29 movimientos se refieren a la 29 división de infantería donde el Taekwon'do desarrolló su madurez.",
+                    "Salida": ""
+                }
+            ]
+        }
+    ],
     "Evaluacion": [
         "Técnicas fundamentales",
         "Formas",
         "Ilbo matsogi",
+        "Ibo matsogi",
         "Lucha libre",
-        "Combinaciones de técnicas de pie y mano ejecutadas en 2 pasos",
+        "Combinaciones Técnicas de pie y mano con desplazamientos y técnicas de anticipo",
+        "Conocimiento de diferentes formas de defensa",
+        "Rotura: Poder con pie o habilidad TWIMYO BANDAE DOLLYO CHAGI (Giro talón saltando)",
         {
-            "Teoría": [{
-                "G": "2"
-            }, {
-                "U": "2"
-            }]
+            "Teoría": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "H",
+                "I",
+                "J",
+                "K",
+                "L",
+                "M",
+                "N",
+                "Ñ",
+                "O",
+                "P",
+                "Q",
+                "R",
+                "S",
+                "T",
+                "V",
+                "W",
+                {
+                    "G": [
+                        "6"
+                    ]
+                },
+                {
+                    "U": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ]
+                }
+            ]
         }
     ]
 }

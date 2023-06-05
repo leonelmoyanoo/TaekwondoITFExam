@@ -1,11 +1,15 @@
 {
-    "Tul": [{
-        "CHON JI": [{
-            "Cantidad": 19,
-            "Descripcion": "Literalmente 'EL CIELO Y LA TIERRA'.\nEsto es en oriente interpretado como la creación del mundo, o el comienzo. Consiste en 2 partes iguales, una representa el cielo y la otra representa a la tierra.",
-            "Salida": "NARANI JUMBI SOGI"
-        }]
-    }],
+    "Tul": [
+        {
+            "CHON JI": [
+                {
+                    "Cantidad": 19,
+                    "Descripcion": "Literalmente 'EL CIELO Y LA TIERRA'.\nEsto es en oriente interpretado como la creación del mundo, o el comienzo. Consiste en 2 partes iguales, una representa el cielo y la otra representa a la tierra.",
+                    "Salida": "NARANI JUMBI SOGI"
+                }
+            ]
+        }
+    ],
     "Evaluacion": [
         "Técnicas fundamentales",
         "Formas",
@@ -21,9 +25,15 @@
                 "E",
                 "F",
                 {
-                    "G": ["1"]
-                }, {
-                    "U": ["1","4"]
+                    "G": [
+                        "1"
+                    ]
+                },
+                {
+                    "U": [
+                        "1",
+                        "4"
+                    ]
                 }
             ]
         }
