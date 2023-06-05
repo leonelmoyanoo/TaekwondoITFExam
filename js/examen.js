@@ -63,9 +63,14 @@ async function printCinturon() {
                 let text = data["Evaluacion"][key]['Teoría'][element];
                 if (typeof text === "object") {
                     let first_key = Object.keys(text)[0];
+                    title = '<h5 class="font-weight-bold ">' + contenido[first_key][0] + '</h5>'
+                    p = '';
                     for (const key2 in text) {
-                        title = '<h5 class="font-weight-bold ">' + contenido[first_key][0] + '</h5>'
-                        p = '<p class="card-text teoria">' + first_key + text[key2] + ' - ' + contenido[first_key][1][0][text[key2]] + '</p>';
+                        text[key2].forEach(item => {
+                            console.log(item);
+                        });
+                        console.log(contenido[first_key][1][0][text[key2]]);
+                        p += '<p class="card-text teoria">' + first_key + text[key2] + ' - ' + contenido[first_key][1][0][text[key2]] + '</p>';
                     }
                     teoria_div.innerHTML += title + p ;
 

@@ -28,9 +28,10 @@
     "S": "Técnicas Fundamentales",
     "T": "Formas (Tul)",
     "U": ["Lucha (Sparring)", [{
-        "1": "Sambo Matsogi ",
-        "2": "Ilbo Matsoi",
-        "3": "Jayu Matsogi"
+        "1": "Sambo Matsogi (3 pasos)",
+        "2": "Ilbo Matsogi (1 pasos)",
+        "3": "Ibo Matsogi (2 pasos)",
+        "4": "Jayu Matsogi (Lucha libre)"
     }]],
     "V": "Consideración",
     "W": "Defensa personal",
