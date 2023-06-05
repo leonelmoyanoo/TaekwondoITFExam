@@ -1,6 +1,6 @@
 {
     "cinturones": [
-        "blanco",
+        {"blanco": ["red"]  },
         "blanco-amarillo",
         "amarillo",
         "amarillo-verde",
