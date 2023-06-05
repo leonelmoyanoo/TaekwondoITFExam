@@ -1,5 +1,4 @@
 const CINTURONES = 'https://leonelmoyanoo.github.io/TaekwondoExam/json/cinturones.json';
-console.log(CINTURONES);
 
 const CARD_TOP = '<div class="card-body">';
 
