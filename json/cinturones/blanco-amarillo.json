@@ -10,11 +10,22 @@
         "Técnicas fundamentales",
         "Formas",
         "Sambo matsogi en pareja",
-        "Combinaciones de técnicas de pie y mano ejecutadas en 2 pasos",
+        "Lucha libre",
+        "Combinaciones de técnicas de pie y mano ejecutadas en 1 y 2 pasos",
         {
-            "Teoría": [{
-                "U": "4"
-            }]
+            "Teoría": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                {
+                    "G": "1"
+                }, {
+                    "U": ["1","4"]
+                }
+            ]
         }
     ]
 }

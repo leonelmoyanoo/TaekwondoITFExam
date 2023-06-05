@@ -10,8 +10,11 @@ const tul_div = document.getElementById('TUL');
 const cinturon_title = document.getElementById('cinturonTitle');
 
 const CINTURON = 'https://leonelmoyanoo.github.io/TaekwondoExam/json/cinturones/' + cinturon + '.json';
-const CONTENIDO = 'https://leonelmoyanoo.github.io/TaekwondoExam/json/contenid.json';
+const CONTENIDO = 'https://leonelmoyanoo.github.io/TaekwondoExam/json/contenido.json';
 const CINTURONES = 'https://leonelmoyanoo.github.io/TaekwondoExam/json/cinturones.json';
+
+
+card_custom = document.getElementsByClassName('card-custom');
 
 cinturon_title.innerHTML = cinturon;
 
@@ -30,13 +33,17 @@ function obtenerClaves(objeto) {
 }
 
 async function printCinturon() {
+    const response3 = await fetch(CONTENIDO);
+    let contenido = await response3.json();
 
     const response2 = await fetch(CINTURONES);
-    const { cinturones } = await response2.json();
-    
-    let first_key = Object.keys(cinturones[cinturon])[0];
-    let color = cinturones[cinturon][first_key][0];
-    console.log(cinturones);
+    let { cinturones } = await response2.json();
+    cinturones = cinturones[0];
+
+    for (var i = 0; i < card_custom.length; i++) {
+        var element = card_custom[i];
+        element.style.boxShadow = '5px 5px 10px ' + cinturones[cinturon];
+    }
 
 
     const response = await fetch(CINTURON);
@@ -57,15 +64,17 @@ async function printCinturon() {
                 if (typeof text === "object") {
                     let first_key = Object.keys(text)[0];
                     for (const key2 in text) {
-                        p = '<p class="card-text teoria">' + first_key + text[key2] + '</p>';
+                        title = '<h5 class="font-weight-bold ">' + contenido[first_key][0] + '</h5>'
+                        p = '<p class="card-text teoria">' + first_key + text[key2] + ' - ' + contenido[first_key][1][0][text[key2]] + '</p>';
                     }
-                    teoria_div.innerHTML += p ;
+                    teoria_div.innerHTML += title + p ;
 
                 }else if (typeof text === "string") {
-                    teoria_div.innerHTML += '<p class="card-text teoria">' + text + '</p>';
+                    teoria_div.innerHTML += '<p class="card-text teoria">' + text + ' - ' + contenido[text] + '</p>';
                 }
             });
         }
     }
 }
 printCinturon();
+
