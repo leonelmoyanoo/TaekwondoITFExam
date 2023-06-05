@@ -1,14 +1,14 @@
 {
     "cinturones": [
-        {"blanco": ["rgba(245, 245, 245, 0.9)"]  },
-        {"blanco-amarillo": ["linear-gradient(to right, rgba(255, 255, 255, 0.9), rgba(255, 255, 224, 0.9))"]  },
-        {"amarillo": ["rgba(255, 255, 153, 0.9)"]  },
-        {"amarillo-verde": ["linear-gradient(to right, rgba(255, 255, 224, 0.9), rgba(192, 255, 192, 0.9))"]  },
-        {"verde": ["rgba(153, 255, 153, 0.9)"]  },
-        {"verde-azul": ["linear-gradient(to right, rgba(192, 255, 192, 0.9), rgba(192, 224, 255, 0.9))"]  },
-        {"azul": ["rgba(153, 153, 255, 0.9)"]  },
-        {"azul-rojo": ["linear-gradient(to right, rgba(192, 224, 255, 0.9), rgba(255, 192, 224, 0.9))"]  },
-        {"rojo": ["rgba(255, 153, 153, 0.9)"]  },
-        {"rojo-negro": ["linear-gradient(to right, rgba(255, 192, 224, 0.9), rgba(128, 0, 0, 0.9))"]  }
+        {"blanco": ["rgba(245, 245, 245, 1)"]  },
+        {"blanco-amarillo": ["linear-gradient(to right, rgba(255, 255, 245, 1), rgba(255, 255, 153, 1))"]  },
+        {"amarillo": ["rgba(255, 255, 153, 1)"]  },
+        {"amarillo-verde": ["linear-gradient(to right, rgba(255, 255, 153, 1), rgba(153, 255, 153, 1))"]  },
+        {"verde": ["rgba(153, 255, 153, 1)"]  },
+        {"verde-azul": ["linear-gradient(to right, rgba(153, 255, 153, 1), rgba(153, 153, 255, 1)))"]  },
+        {"azul": ["rgba(153, 153, 255, 1)"]  },
+        {"azul-rojo": ["linear-gradient(to right, rgba(153, 153, 255, 1), rgba(255, 153, 153, 1))"]  },
+        {"rojo": ["rgba(255, 153, 153, 1)"]  },
+        {"rojo-negro": ["linear-gradient(to right, rgba(255, 153, 153, 1), rgba(0, 0, 0, 1))"]  }
     ]
 }
