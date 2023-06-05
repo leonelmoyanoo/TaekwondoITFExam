@@ -12,10 +12,9 @@ async function printCinturones() {
     const cinturones_div = document.getElementById('cinturones');
 
     for (const key in cinturones) {
-        let card = '<a href="examen.html?cinturon=' + cinturones[key] + '"  class="col-md-4 card btn  btn-primary">' + CARD_TOP + '<h5 class="card-title"> Cinturón ' + cinturones[key] + '</h5>' + CARD_BOTTOM + '</a>';
-        let a = document.createElement('a');
-        a.innerText = cinturones[key];
-        a.href = 'examen.html?cinturon=' + cinturones[key];
+        let first_key = Object.keys(cinturones[key])[0];
+        let color = cinturones[key][first_key][0];
+        let card = '<a styles="background-color:' + color + '" href="examen.html?cinturon=' + first_key + '"  class="col-md-4 card btn  btn-primary">' + CARD_TOP + '<h3 class="card-title"> Cinturón ' + first_key + '</h3>' + CARD_BOTTOM + '</a>';
         cinturones_div.innerHTML += card;
     }
 

@@ -1,14 +1,14 @@
 {
     "cinturones": [
-        {"blanco": ["red"]  },
-        "blanco-amarillo",
-        "amarillo",
-        "amarillo-verde",
-        "verde",
-        "verde-azul",
-        "azul",
-        "azul-rojo",
-        "rojo",
-        "rojo-negro"
+        {"blanco": ["rgba(245, 245, 245, 0.9)"]  },
+        {"blanco-amarillo": ["rgba(255, 255, 224, 0.9)"]  },
+        {"amarillo": ["rgba(255, 255, 153, 0.9)"]  },
+        {"amarillo-verde": ["rgba(204, 255, 153, 0.9)"]  },
+        {"verde": ["rgba(153, 255, 153, 0.9)"]  },
+        {"verde-azul": ["rgba(153, 255, 204, 0.9)"]  },
+        {"azul": ["rgba(153, 153, 255, 0.9)"]  },
+        {"azul-rojo": ["rgba(204, 153, 255, 0.9)"]  },
+        {"rojo": ["rgba(255, 153, 153, 0.9)"]  },
+        {"rojo-negro": ["rgba(153, 0, 0, 0.9)"]  }
     ]
 }
