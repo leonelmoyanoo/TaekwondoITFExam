@@ -9,9 +9,9 @@ const tul_div = document.getElementById('TUL');
 
 const cinturon_title = document.getElementById('cinturonTitle');
 
-const CINTURON = 'https://leonelmoyanoo.github.io/TaekwondoExam/json/cinturones/' + cinturon + '.json';
-const CONTENIDO = 'https://leonelmoyanoo.github.io/TaekwondoExam/json/contenido.json';
-const CINTURONES = 'https://leonelmoyanoo.github.io/TaekwondoExam/json/cinturones.json';
+const CINTURON = 'https://leonelmoyanoo.github.io/TaekwondoITFExam/json/cinturones/' + cinturon + '.json';
+const CONTENIDO = 'https://leonelmoyanoo.github.io/TaekwondoITFExam/json/contenido.json';
+const CINTURONES = 'https://leonelmoyanoo.github.io/TaekwondoITFExam/json/cinturones.json';
 
 
 card_custom = document.getElementsByClassName('card-custom');
