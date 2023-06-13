@@ -1,4 +1,4 @@
-const CINTURONES = 'https://leonelmoyanoo.github.io/TaekwondoExam/json/cinturones.json';
+const CINTURONES = 'https://leonelmoyanoo.github.io/TaekwondoITFExam/json/cinturones.json';
 
 const CARD_TOP = '<div class="card-body">';
 
